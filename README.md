@@ -8,7 +8,7 @@ This project allows users to consult stations and routes of the TransMilenio tra
 
 Facility
 
-Clone or download the repository from repository URL.
+Clone or download the repository from repository URL https://github.com/Horseparty383/TransmilenioJavaDB/tree/main.
 
 Import the project into Apache NetBeans 18.
 
